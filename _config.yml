@@ -7,7 +7,6 @@ relative_links:
   collections: false
 exclude:
   - AGENTS.md
-  - slides/runs
   - slides/build.mjs
   - slides/lesson.json
   - slides/session-draft.json

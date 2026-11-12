@@ -11,6 +11,8 @@
 
 每頁最後有一道新情境題。先用自己的話回答，再對照答案和理由。
 
+[開啟課堂教學簡報](../slides/index.html)
+
 ## 論文來源
 
 - [Schoenfeld 等（2019）](sources/schoenfeld-2019-volume.md) 每個動作多做幾輪，肌肉會長更多嗎？
