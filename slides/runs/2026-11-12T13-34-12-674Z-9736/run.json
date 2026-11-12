@@ -1,0 +1,309 @@
+{
+  "mode": "--test",
+  "model": null,
+  "files": [
+    {
+      "file": "AGENTS.md",
+      "sha256": "c285f6405e10bfcfbbeadd2b3e4dad460e9b22870d295120bac53f5a48468e51",
+      "sections": [
+        "(開頭)",
+        "目錄與格式",
+        "新手頁面怎麼寫",
+        "論文匯入",
+        "如何記錄證據",
+        "問答與健檢"
+      ]
+    },
+    {
+      "file": "wiki/index.md",
+      "sha256": "0ea8cf237a0c2de637eb1ce335f342fa373209baaccdc71df1728b9b51caf139",
+      "sections": [
+        "(開頭)",
+        "第一次讀，建議照這個順序",
+        "論文來源"
+      ]
+    },
+    {
+      "file": "wiki/topics/load.md",
+      "sha256": "1ebd704eed64926a03207f809f1e4e2026778205a0e8b4ffe47ac8a2c2489158",
+      "sections": [
+        "(開頭)",
+        "重量、完成次數和餘力怎麼一起看？",
+        "論文怎麼比較輕重？",
+        "肌肉變大和變有力各怎麼看？",
+        "換一個例子，你會怎麼判斷？"
+      ]
+    },
+    {
+      "file": "wiki/topics/proximity-to-failure.md",
+      "sha256": "0e64cde5cd60088d6308c95a8e9a60afe4ea0d89515095af64f5e9ce4d9c3136",
+      "sections": [
+        "(開頭)",
+        "同樣做八下，為什麼餘力不同？",
+        "開始痠、主動停下和力竭有何差別？",
+        "論文怎麼判定一組結束？",
+        "用剩餘次數比較，能回答什麼？",
+        "換一個例子，你會怎麼判斷？"
+      ]
+    },
+    {
+      "file": "wiki/topics/rest.md",
+      "sha256": "2a96fe8c73b66b956dc8e83ccf41d6c4e4db8ab98f920ac9206c5c0d130240bb",
+      "sections": [
+        "(開頭)",
+        "怎麼記休息和次數？",
+        "當下少做兩下和八週後的肌肉厚度差在哪裡？",
+        "把多篇研究合起來看，會得到什麼？",
+        "換一個例子，你會怎麼判斷？"
+      ]
+    },
+    {
+      "file": "wiki/topics/volume-frequency.md",
+      "sha256": "bd24820042abd45e4d234e0ef5f4a262474ac14337a4d07e73ac0ae714b6b728",
+      "sections": [
+        "(開頭)",
+        "怎麼分清組數和頻率？",
+        "每個動作的組數和每個肌群的組數怎麼算？",
+        "哪些研究固定組數，哪些固定天數？",
+        "加一組的收益都一樣嗎？",
+        "換一個例子，你會怎麼判斷？"
+      ]
+    },
+    {
+      "file": "wiki/sources/currier-2023-prescription.md",
+      "sha256": "db3a9fea4a546d18fcc4d9315008563caecb8913140c730dcc8968dbdea54d47",
+      "sections": [
+        "(開頭)",
+        "這篇能回答哪個問題？",
+        "研究是怎麼做的？",
+        "研究量到了什麼？",
+        "結果可以用到哪裡？",
+        "去哪裡核對原文？"
+      ]
+    },
+    {
+      "file": "wiki/sources/lasevicius-2019-frequency.md",
+      "sha256": "be1335d01911e41ded41b84ab603d54051c306277dc05264067aba660f92ebf4",
+      "sections": [
+        "(開頭)",
+        "研究怎麼回答這個問題？",
+        "去哪裡核對？"
+      ]
+    },
+    {
+      "file": "wiki/sources/lopez-2021-load.md",
+      "sha256": "6cf5c0765351ff343cbf03eb1fa2b4f89fc75198fc2d4adb68724623c81c042e",
+      "sections": [
+        "(開頭)",
+        "這篇能回答哪個問題？",
+        "研究是怎麼做的？",
+        "研究量到了什麼？",
+        "結果可以用到哪裡？",
+        "去哪裡核對原文？"
+      ]
+    },
+    {
+      "file": "wiki/sources/pelland-2026-volume-frequency.md",
+      "sha256": "5c50f55e3bb9ab63af0e5f86a11977905c4a62311a4526da8e94e425ee6bbf07",
+      "sections": [
+        "(開頭)",
+        "研究怎麼回答這個問題？",
+        "去哪裡核對？"
+      ]
+    },
+    {
+      "file": "wiki/sources/refalo-2023-proximity-to-failure.md",
+      "sha256": "cb279feba882e1d4a30ea074b3b330c15d772b3db6408915ba62acc5a9c7a0b3",
+      "sections": [
+        "(開頭)",
+        "這篇能回答哪個問題？",
+        "研究是怎麼做的？",
+        "研究量到了什麼？",
+        "結果可以用到哪裡？",
+        "去哪裡核對原文？"
+      ]
+    },
+    {
+      "file": "wiki/sources/robinson-2024-proximity-to-failure.md",
+      "sha256": "e75edf5d2d6c8bdd80b1fe4e269b8dfd819376f0961bcf804964f6c02ae5d803",
+      "sections": [
+        "(開頭)",
+        "研究怎麼回答這個問題？",
+        "去哪裡核對？"
+      ]
+    },
+    {
+      "file": "wiki/sources/schoenfeld-2016-rest.md",
+      "sha256": "e47b2e5da4dfd76b636ac821a56649d61efe7bb0debb98007f1cf3a25a85dc29",
+      "sections": [
+        "(開頭)",
+        "這篇能回答哪個問題？",
+        "研究是怎麼做的？",
+        "研究量到了什麼？",
+        "結果可以用到哪裡？",
+        "去哪裡核對原文？"
+      ]
+    },
+    {
+      "file": "wiki/sources/schoenfeld-2019-volume.md",
+      "sha256": "72c7797d031de3770b4a834590293e5ff5d75d30512db206e72e5f080c3a8ede",
+      "sections": [
+        "(開頭)",
+        "這篇能回答哪個問題？",
+        "研究是怎麼做的？",
+        "研究量到了什麼？",
+        "結果可以用到哪裡？",
+        "去哪裡核對原文？"
+      ]
+    },
+    {
+      "file": "wiki/sources/singer-2024-rest.md",
+      "sha256": "c7a7a4a61a6d6d3e3fda412dbcac08d8961b383516d66aa82824be51480e1413",
+      "sections": [
+        "(開頭)",
+        "研究怎麼回答這個問題？",
+        "去哪裡核對？"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "id": "intro",
+      "attempts": [
+        {
+          "attempt": 0,
+          "local": [],
+          "review": []
+        }
+      ]
+    },
+    {
+      "id": "load",
+      "attempts": [
+        {
+          "attempt": 0,
+          "local": [],
+          "review": []
+        }
+      ]
+    },
+    {
+      "id": "reps",
+      "attempts": [
+        {
+          "attempt": 0,
+          "local": [],
+          "review": []
+        }
+      ]
+    },
+    {
+      "id": "rir",
+      "attempts": [
+        {
+          "attempt": 0,
+          "local": [
+            "主張缺少有效的來源路徑或段落"
+          ],
+          "review": []
+        },
+        {
+          "attempt": 1,
+          "local": [
+            "主張缺少有效的來源路徑或段落"
+          ],
+          "review": []
+        },
+        {
+          "attempt": 2,
+          "local": [
+            "主張缺少有效的來源路徑或段落"
+          ],
+          "review": []
+        }
+      ]
+    },
+    {
+      "id": "rest",
+      "attempts": [
+        {
+          "attempt": 0,
+          "local": [],
+          "review": [
+            {
+              "index": 0,
+              "status": "pass",
+              "reason": "來源指向相同的八週試驗、1 對 3 分鐘、有經驗年輕男性與大腿前側厚度。例表的 60 秒只用來讀紀錄，未拿當次次數當作增肌結果。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sets",
+      "attempts": [
+        {
+          "attempt": 0,
+          "local": [],
+          "review": []
+        }
+      ]
+    },
+    {
+      "id": "frequency",
+      "attempts": [
+        {
+          "attempt": 0,
+          "local": [],
+          "review": [
+            {
+              "index": 0,
+              "status": "pass",
+              "reason": "來源比較相近訓練量下每肌群 2 次對 3 次、有經驗男性、10 週肌肉厚度。未達顯著仍可能有差異。三天的假設表與試驗分開。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "attempts": [
+        {
+          "attempt": 0,
+          "local": [],
+          "review": []
+        }
+      ]
+    },
+    {
+      "id": "quiz",
+      "attempts": [
+        {
+          "attempt": 0,
+          "local": [],
+          "review": []
+        }
+      ]
+    }
+  ],
+  "html": [],
+  "published": false,
+  "records": {
+    "hypothetical": "假設的深蹲訓練紀錄",
+    "main": {
+      "sets": 6,
+      "days": 3
+    },
+    "quiz": {
+      "sets": 5,
+      "days": 2
+    },
+    "quizRow": [
+      22,
+      6,
+      2,
+      90
+    ]
+  },
+  "reviewOrigin": "Codex conversation; test uses recorded judgments"
+}

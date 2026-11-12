@@ -1,0 +1,15 @@
+title: 肌肥大與重量訓練 LLM Wiki
+lang: zh-Hant
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+exclude:
+  - AGENTS.md
+  - slides/runs
+  - slides/build.mjs
+  - slides/lesson.json
+  - slides/session-draft.json
+  - slides/session-review.json
+

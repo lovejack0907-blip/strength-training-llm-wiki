@@ -1,0 +1,10 @@
+.obsidian/
+.env
+.env.*
+*.pem
+*.key
+/raw/*
+!/raw/*.md
+browser-profile/
+slides/.candidate-*.html
+

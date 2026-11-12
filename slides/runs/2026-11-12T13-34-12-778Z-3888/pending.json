@@ -1,0 +1,7 @@
+[
+  {
+    "id": "run",
+    "status": "blocked",
+    "issues": "缺少 OPENAI_API_KEY 或 OPENAI_MODEL"
+  }
+]

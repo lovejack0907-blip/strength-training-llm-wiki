@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rir",
+    "status": "unresolved",
+    "claims": [
+      {
+        "text": "Robinson 等依各試驗的停止條件估計餘力，發現估計越接近做不動，平均增肌越多。多數組的餘力是事後推估，還無法指定每組該留幾下。",
+        "path": "wiki/sources/missing.md",
+        "heading": "研究怎麼回答這個問題？"
+      }
+    ],
+    "issues": {
+      "attempt": 2,
+      "local": [
+        "主張缺少有效的來源路徑或段落"
+      ],
+      "review": []
+    }
+  }
+]
